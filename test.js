@@ -1,3 +1,4 @@
 // JavaScript showing output with this console
 
-console.log("Hello World");
+let X = "AJ Auntor";
+let X = 9;
