@@ -1,4 +1,8 @@
 // JavaScript showing output with this console
 
-let X = "AJ Auntor";
-let X = 9;
+if (true) {
+    let M = 7;
+    console.log(M);
+}
+
+console.log(M);
